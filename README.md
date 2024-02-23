@@ -1,34 +1,59 @@
+# Hello, I'm Jérémie Gisserot 👋
 
-<h1 align="center">Hi 👋, I'm Jérémie aka ledjay</h1>
-<h3 align="center">A passionate frontend developer from France</h3>
+## About Me
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ledjay" alt="ledjay" /></a> </p>
+I'm a creative developer with experience since 1999. Currently, I work as a Lead Front-End at [stadiumGO](https://www.stadiumgo.com/).
 
-- 🔭 I’m currently working with [@stadiumgo](https://www.stadiumgo.fr/)
+I'm passionate about crafting powerful brands and intuitive user interfaces. I can assist you in establishing your brand identity and developing your website, using technologies such as React, NextJs, and much more.
 
-- 🌱 I’m currently learning **NextJs, React, React Native**
+## Services
 
-- 👨‍💻 All of my projects are available at [https://jeremie-gisserot.net](https://jeremie-gisserot.net)
+- Front-End Development
+- Web Design
+- Brand Identity
+- Crafting Flawless WordPress Websites
 
-- 📝 I regularly write articles on [https://jeremie-gisserot.me](https://jeremie-gisserot.me)
+If you need assistance with your project, feel free to fill out the "What can I do for you" form on [my website](https://jeremie-gisserot.net/), and we'll work together to create something that fits your needs.
 
-- 💬 Ask me about **React, Wordpress, JavaScript**
+## Recent Projects
 
-- 📫 How to reach me **j@jeremie-gisserot.net**
+Here are some of the recent projects I've worked on:
 
-- 📄 Know about my experiences [https://jeremie-gisserot.net/resume-jeremie-gisserot-creative-developer.pdf](https://jeremie-gisserot.net/resume-jeremie-gisserot-creative-developer.pdf)
+- Real Group
+- Boticinal
+- Les Bio Frères
+- E nemo
+- Sources du lac
+- Digital platform observatory
+- Solina
+- Les Canumeriques
 
-- ⚡ Fun fact **I'm a huge fan of Unicorns and pigs**
+## Testimonials
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+### Florine de Korwin
+**Digital project manager - Flows Communication**
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.cypress.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" alt="cypress" width="40" height="40"/> </a> <a href="https://d3js.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/d3js/d3js-original.svg" alt="d3js" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://gohugo.io/" target="_blank" rel="noreferrer"> <img src="https://api.iconify.design/logos-hugo.svg" alt="hugo" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://svelte.dev" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Svelte_Logo.svg" alt="svelte" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
+"I've been working with Jérémie for 3 years on web development and design projects. I have no doubts on a long term collaboration! Jérémie is high skilled and curious, which makes every project a new discovery."
 
-<p><img align="left" src="github-readme-stats-omega-vert-53.vercel.app/api/top-langs?username=ledjay&show_icons=true&locale=en&layout=compact" alt="ledjay" /></p>
+### Eric Lebrun
+**CEO - Q2M Conseils**
 
-<p>&nbsp;<img align="center" src="github-readme-stats-omega-vert-53.vercel.app/api?username=ledjay&show_icons=true&locale=en" alt="ledjay" /></p>
+"I had the pleasure and the chance to work with Jérémie within the Digital Communication agency Pamplemousse which I directed. Jérémie was a senior developer who was keen to provide all his expertise and advice, both to me for strategic subjects and to the other developers of the agency on more technical subjects."
 
-<p><img align="center" src="github-readme-stats-omega-vert-53.vercel.app/?user=ledjay&" alt="ledjay" /></p>
+### Julien Simon
+**Editorial Director - Vivlio**
+
+"Firstly, Jérémie is a very reliable service provider. But he's also a real pleasure to work with: he's a true creative thinker, always looking for the right solutions to problems, and never hesitating to learn about innovative technologies to offer the best of what's available at any given time."
+
+### Antoine Joseph
+**Entrepreneur - monkeywi**
+
+"Working with Jérémie is a real pleasure! Among his qualities: extraordinary empathy, strong creativity and very good technical skills! I also really appreciated his openness: Jérémie built the new monkeywi logo by my side, as our discussion progressed."
+
+## Contact
+
+If you'd like to discuss your project, feel free to send me an email at [j@jeremie-gisserot.net](mailto:j@jeremie-gisserot.net) or contact me on WhatsApp at [+33 6 635 653 66](https://wa.me/33663565366).
+
+---
+
+[Let's connect](https://jeremie-gisserot.net/)
