@@ -54,6 +54,26 @@ Here are some of the recent projects I've worked on:
 
 ## Testimonials
 
+### Alexandre Blond
+**CTO - StadiumGO**
+
+"I have the privilege of working with Jérémie at StadiumGO, and I can say without hesitation that he is one of the most competent professionals I have had the pleasure of collaborating with. Jérémie possesses a very wide range of skills, making him a true creative developer. He has remarkable expertise in UI/UX, both in design and technical implementation. His ability to solve complex problems with creativity and efficiency is impressive.
+
+He is an excellent communicator and is also gifted with empathy! Everyone understands what he does (tech or not), and he aligns with everyone's needs. He is a trustworthy person, always ready to take on challenges with enthusiasm and professionalism. His impeccable work ethic and determination to achieve excellence inspire those who work with him.
+
+I highly recommend Jérémie for any future opportunity. He is one of the pillars that a company needs."
+
+### Romain Lauvergnat
+**CEO - StadiumGO**
+
+"Having a Jérémie on your team is a significant advantage that I highly recommend!
+
+Diligent and pedagogical, it's a pleasure to work together.
+
+Jérémie knows how to put his energy at the service of the company's needs and the missions entrusted to him, always with that little extra creativity that allows us to aim even further.
+
+The UI/UX and development combination that he handles wonderfully only makes collaboration more enjoyable and makes the impossible... almost possible :)"
+
 ### Florine de Korwin
 **Digital project manager - Flows Communication**
 
