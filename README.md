@@ -2,7 +2,7 @@
 
 ## About Me
 
-I'm a creative developer with experience since 1999. Currently, I work as a Lead Front-End at <a href="https://www.stadiumgo.fr" target="_blank">StadiumGO</a>
+I'm a creative developer with experience since 1999. Currently, I work as a Front-End developer at <a href="https://www.refugies.info" target="_blank">Réfugiés.info</a>
 
 I'm passionate about crafting powerful brands and intuitive user interfaces. I can assist you in establishing your brand identity and developing your website, using technologies such as React, NextJs, and much more.
 
@@ -16,23 +16,13 @@ I'm passionate about crafting powerful brands and intuitive user interfaces. I c
 If you need assistance with your project, feel free to fill out the "What can I do for you" form on [my website](https://jeremie-gisserot.net/), and we'll work together to create something that fits your needs.
 
 ## Skills
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
-![Svelte](https://img.shields.io/badge/Svelte-FF3E00?style=for-the-badge&logo=svelte&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
 ![Shopify](https://img.shields.io/badge/Shopify-7AB55C?style=for-the-badge&logo=shopify&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Bedrock](https://img.shields.io/badge/Bedrock-5093E6?style=for-the-badge)
-![ACF](https://img.shields.io/badge/ACF-00AC63?style=for-the-badge&logo=advanced-custom-fields&logoColor=white)
-![Sage](https://img.shields.io/badge/Sage-525DDC?style=for-the-badge)
-![Blade](https://img.shields.io/badge/Blade-FA6400?style=for-the-badge&logo=laravel&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=white)
 ![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white)
 ![UX/UI](https://img.shields.io/badge/UX/UI-FF69B4?style=for-the-badge)
