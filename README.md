@@ -47,7 +47,7 @@ J'ai également contribué pendant 18 mois à **Réfugiés.info** (DIAIR, Minist
 
 ### AnSu *(en cours — beta.gouv / Éducation nationale)*
 Assistant pédagogique IA pour les enseignants — séquences d'apprentissage adaptatives.
-Rôle : Product Engineering complet — archi monorepo (Next.js, Mastra), intégration LLM, déploiement Scalingo.
+Rôle : Product Engineering, intégration LLM, déploiement.
 
 ### [Réfugiés.info](https://www.refugies.info)
 Plateforme d'intérêt général, Ministère de l'Intérieur / DIAIR.
