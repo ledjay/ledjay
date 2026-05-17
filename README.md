@@ -1,24 +1,29 @@
-# 👋 Hello, je suis Jérémie Gisserot  
+# 👋 Hello, je suis Jérémie Gisserot
 
-### Product designer & creative developer au service du numérique d’intérêt général  
+### Product Engineer — Design · Dev · IA au service du numérique d'intérêt général
 
-Je conçois et développe des produits numériques **accessibles**, **intuitifs** et **durables**.  
-Avec plus de 15 ans d’expérience entre **design**, **front-end** et **UX**, j’aime travailler à l’intersection entre stratégie produit, conception et implémentation.  
+Je conçois et développe des produits numériques à l'intersection du design, du code et de l'IA. Avec 20 ans d'expérience freelance, je travaille sur des produits où conception et implémentation sont indissociables.
 
-Actuellement, je travaille **4 jours par semaine sur [Réfugiés.info](https://www.refugies.info)**, une plateforme du Ministère de l’Intérieur portée par la [DIAIR](https://www.interieur.gouv.fr/diair), où je contribue à la **refonte UX/UI**, à l’**intégration du DSFR**, et à la **mise en conformité RGAA**.  
-J’ai également participé au projet [**Place d’Asile**](https://beta.gouv.fr/startups/place-d-asile.html), une startup d’État dédiée à la gestion budgétaire du dispositif asile.
+Actuellement, je contribue à **AnSu**, un assistant pédagogique IA développé au sein de beta.gouv, en partenariat avec l'Éducation nationale. Product Engineer complet sur un produit qui aide les enseignants à créer des séquences d'apprentissage adaptatives.
 
-En parallèle, je co-fonde et développe des projets à impact positif comme [**Les Bio Frères**](https://lesbiofreres.fr), une marque de compléments alimentaires éco-conçus.
+J'ai également contribué pendant 18 mois à **Réfugiés.info** (DIAIR, Ministère de l'Intérieur) et participé à **Place d'Asile** (beta.gouv), deux startups d'État qui m'ont ancré dans l'écosystème du numérique public. J'ai également co-fondé **Les Bio Frères**, une marque de compléments alimentaires bio.
+
+---
+
+## ✍️ Derniers articles
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
 ---
 
 ## 💡 Ce que je fais
 
-- **Product Design** – recherche, parcours utilisateurs, wireframes, prototypes et tests  
-- **Front-End Development** – interfaces modernes et performantes (Next.js, TypeScript, DSFR)  
-- **Design Systems** – mise en place de systèmes de design modulaires et accessibles  
-- **Accessibilité & RGAA** – intégration conforme et audit UX inclusif  
-- **UX Strategy** – accompagnement produit et design ops pour équipes publiques et startups
+- **Product Engineering** — conception produit, architecture, implémentation. Du wireframe au deploy.
+- **IA & agents LLM** — workflows IA, agents à mémoire persistante, assistants pédagogiques
+- **Front-End Development** — interfaces modernes (Next.js, TypeScript, React, DSFR)
+- **UX Design** — recherche utilisateurs, parcours, prototypes, tests
+- **Accessibilité & RGAA** — intégration conforme, audit UX inclusif
+- **Design Systems** — systèmes modulaires, scalables, accessibles
 
 ---
 
@@ -28,6 +33,8 @@ En parallèle, je co-fonde et développe des projets à impact positif comme [**
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![Mastra](https://img.shields.io/badge/Mastra-000000?style=for-the-badge)
 ![DSFR](https://img.shields.io/badge/DSFR-0053B3?style=for-the-badge)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Storybook](https://img.shields.io/badge/Storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white)
@@ -38,17 +45,21 @@ En parallèle, je co-fonde et développe des projets à impact positif comme [**
 
 ## 🚀 Projets récents
 
-### [Réfugiés.info](https://www.refugies.info)
-Plateforme d’intérêt général pour faciliter l’accès à l’information des réfugiés et acteurs sociaux.  
-**Rôle :** Design system DSFR, accessibilité RGAA, UX/UI design, front-end Next.js/TypeScript.
+### AnSu *(en cours — beta.gouv / Éducation nationale)*
+Assistant pédagogique IA pour les enseignants — séquences d'apprentissage adaptatives.
+Rôle : Product Engineering complet — archi monorepo (Next.js, Mastra), intégration LLM, déploiement Scalingo.
 
-### [Place d’Asile](https://beta.gouv.fr/startups/place-d-asile.html)
-Outil de pilotage et de suivi budgétaire du dispositif asile.  
-**Rôle :** Architecture front-end, intégration React/Prisma, gestion de fichiers et tests E2E.
+### [Réfugiés.info](https://www.refugies.info)
+Plateforme d'intérêt général, Ministère de l'Intérieur / DIAIR.
+Rôle : Design system DSFR, accessibilité RGAA, UX/UI, front-end Next.js/TypeScript, back-end Node.js.
+
+### [Place d'Asile](https://beta.gouv.fr/startups/place-d-asile.html)
+Outil de pilotage budgétaire du dispositif asile, beta.gouv.
+Rôle : Architecture front-end, React/Prisma, tests E2E.
 
 ### [Les Bio Frères](https://lesbiofreres.fr)
-Marque engagée de compléments alimentaires bio et végétariens.  
-**Rôle :** Branding, UX e-commerce, refonte front-end WordPress/Next.js, design éco-responsable.
+Marque de compléments alimentaires bio et végétariens.
+Rôle : Co-fondateur, branding.
 
 ---
 
@@ -119,5 +130,5 @@ Je m’intéresse aux **cultures japonaises**, à l’**écologie du numérique*
 
 📧 [j@jeremie-gisserot.net](mailto:j@jeremie-gisserot.net)  
 🌐 [jeremie-gisserot.net](https://jeremie-gisserot.net)  
-💼 [LinkedIn](https://www.linkedin.com/in/jeremiegisserot/)  
-💬 [WhatsApp](https://wa.me/33663565366)
+💼 [LinkedIn](https://www.linkedin.com/in/jeremiegisserot/)
+📰 [Hyperfocus](https://hyperfocusmode.substack.com) — Ma newsletter mensuelle
