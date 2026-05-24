@@ -16,7 +16,7 @@ J'ai également contribué pendant 18 mois à **Réfugiés.info** (DIAIR, Minist
 - [2 mois avec un agent IA : ce que ça a vraiment changé](https://jeremie-gisserot.net/agent-ia-personnel/bilan-agent-ia-personnel)
 - [Ma vie avec un agent IA : ce qu&#39;il fait, ce que je lui confie](https://jeremie-gisserot.net/agent-ia-personnel/vivre-avec-son-agent-ia-personnel)
 - [J&#39;ai branché mon agent IA en une semaine. Presque sans coder.](https://jeremie-gisserot.net/agent-ia-personnel/comment-construire-agent-ia-letta)
-- [Pourquoi je me suis construit un agent IA personnel](https://jeremie-gisserot.net/agent-ia-personnel/pourquoi-agent-ia-personnel)
+- [Agent IA personnel : ce que ça change vraiment au quotidien](https://jeremie-gisserot.net/agent-ia-personnel/pourquoi-agent-ia-personnel)
 <!-- BLOG-POST-LIST:END -->
 
 ---
