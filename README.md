@@ -12,10 +12,10 @@ J'ai également contribué pendant 18 mois à **Réfugiés.info** (DIAIR, Minist
 
 ## ✍️ Derniers articles
 <!-- BLOG-POST-LIST:START -->
-- [Agent IA personnel : pourquoi les freelances en ont besoin avant tout le monde](https://jeremie-gisserot.net/agent-ia-personnel/agent-ia-personnel-freelances)
-- [2 mois avec un agent IA : ce que ça a vraiment changé](https://jeremie-gisserot.net/agent-ia-personnel/bilan-agent-ia-personnel)
-- [Ma vie avec un agent IA : ce qu&#39;il fait, ce que je lui confie](https://jeremie-gisserot.net/agent-ia-personnel/vivre-avec-son-agent-ia-personnel)
-- [J&#39;ai branché mon agent IA en une semaine. Presque sans coder.](https://jeremie-gisserot.net/agent-ia-personnel/comment-construire-agent-ia-letta)
+- [Agent IA personnel pour freelances : gadget ou superpouvoir ?](https://jeremie-gisserot.net/agent-ia-personnel/agent-ia-personnel-freelances)
+- [Agent IA personnel : bilan honnête après 2 mois](https://jeremie-gisserot.net/agent-ia-personnel/bilan-agent-ia-personnel)
+- [Vivre avec un agent IA personnel au quotidien](https://jeremie-gisserot.net/agent-ia-personnel/vivre-avec-son-agent-ia-personnel)
+- [Agent IA personnel : retour d’expérience avec Letta](https://jeremie-gisserot.net/agent-ia-personnel/comment-construire-agent-ia-letta)
 - [Agent IA personnel : ce que ça change vraiment au quotidien](https://jeremie-gisserot.net/agent-ia-personnel/pourquoi-agent-ia-personnel)
 <!-- BLOG-POST-LIST:END -->
 
